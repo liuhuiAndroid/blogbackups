@@ -1,0 +1,3 @@
+-  [从源代码看TreeMap、HashMap、Hashtable、ConcurrentHashMap、LinkedHashMap特性](http://blog.csdn.net/fzhsh/article/details/51219107)
+- [为什么要使用ConcurrentHashMap而不是HashMap](http://blog.csdn.net/l_h_y123/article/details/53330763)
+- [BTA 常问的 Java基础40道常见面试题及详细答案](https://juejin.im/post/5aa3ea686fb9a028c522cda5)
