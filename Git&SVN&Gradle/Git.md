@@ -38,3 +38,19 @@ git checkout master
 ```
 git config core.ignorecase false  
 ```
+
+```
+在本地新建一个分支： git branch index-swiper
+切换到你的新分支: git checkout index-swiper
+将新分支发布在github上： git push origin index-swiper
+在本地删除一个分支： git branch -d index-swiper
+在github远程端删除一个分支： git push origin :index-swiper(分支名前的冒号代表删除)
+
+合并index-swiper分支到主分支：
+git checkout master
+git merge origin/index-swiper
+git push
+```
+
+####修改commit
+git commit --amend
