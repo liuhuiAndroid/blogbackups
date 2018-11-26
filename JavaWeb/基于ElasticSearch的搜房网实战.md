@@ -30,8 +30,22 @@ control+shift+alt+/  registry 勾选 compiler.automake.allow.when.app.running
 
 ##第4章 架构设计
 ####4-3 API结构设计_标准制定
+ApiResponse_
+
 ####4-4 API结构设计_异常拦截器
+
+```
+server.error.whitelabel.enabled=false
+```
+
+AppErrorController
+
 ####4-5 功能性页面开发
+
+```
+# 前端页面不需要热加载
+spring.devtools.restart.exclude=templates/**,static/**
+```
 
 ##第5章 后台管理模块实现
 ####5-1 业务与功能分析设计
