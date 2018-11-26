@@ -54,3 +54,6 @@ git push
 
 ####修改commit
 git commit --amend
+
+####常见错误
+windows 使用git 需要在环境变量配置：/git安装目录/bin/，否则idea中git无法使用
