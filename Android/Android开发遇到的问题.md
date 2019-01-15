@@ -2,3 +2,4 @@
 [解决HorizontalScrollView与SeekBar滑动冲突的问题.](https://blog.csdn.net/qq_15800305/article/details/49885319)
 [解决RecycleView嵌套后重复调用addItemDecoration方法使间隔增大](https://blog.csdn.net/weixin_42063398/article/details/80107782)
 [解决WebView加载html文本时，图片太大不能适配屏幕](https://blog.csdn.net/qq_36437339/article/details/80895646)
+[竖向ScrollView嵌套横向滑动布局冲突](https://blog.csdn.net/QiY6010/article/details/78653340)
